@@ -180,6 +180,98 @@
             text-align: center;
         }
         
+        .council-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+        
+        .council-role {
+            background: rgba(255, 255, 255, 0.08);
+            padding: 1.5rem;
+            border-radius: 8px;
+            border: 1px solid #374151;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+        
+        .council-role:hover {
+            border-color: #ec4899;
+            transform: translateY(-3px);
+        }
+        
+        .role-title {
+            color: #ec4899;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+        
+        .role-description {
+            color: #d1d5db;
+            font-size: 0.9rem;
+        }
+        
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-top: 1rem;
+            justify-content: center;
+        }
+        
+        .tech-item {
+            background: rgba(245, 158, 11, 0.1);
+            color: #f59e0b;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            border: 1px solid #f59e0b;
+            font-size: 0.9rem;
+        }
+        
+        .ai-demo {
+            background: linear-gradient(45deg, rgba(16, 185, 129, 0.2), rgba(5, 150, 105, 0.2));
+            border: 1px solid #10b981;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .ai-title {
+            color: #10b981;
+            font-size: 1.3rem;
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+        
+        .demo-input {
+            width: 100%;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid #374151;
+            border-radius: 8px;
+            padding: 1rem;
+            color: white;
+            font-family: monospace;
+            margin-bottom: 1rem;
+            resize: vertical;
+            min-height: 100px;
+        }
+        
+        .demo-button {
+            background: linear-gradient(45deg, #10b981, #059669);
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: transform 0.3s ease;
+        }
+        
+        .demo-button:hover {
+            transform: translateY(-2px);
+        }
+        
         .cta-section {
             text-align: center;
             padding: 4rem 2rem;
@@ -228,6 +320,10 @@
             }
             
             .partner-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .council-grid {
                 grid-template-columns: 1fr;
             }
         }
@@ -301,7 +397,45 @@
             </div>
         </section>
 
-        <!-- PHASE 2: TERRESTRIAL MANIFESTATION - NEW CONTENT -->
+        <!-- NEW: Phase 1.5: Interactive Engine -->
+        <section class="phase-card">
+            <h2 class="phase-title">
+                <span class="phase-number">1.5</span>
+                Phase 1.5: The Interactive Engine
+            </h2>
+            <p class="phase-description">
+                Transforming narrative into interactive experience - bridging the gap between story and reality through cutting-edge technology.
+            </p>
+            
+            <div class="tech-stack">
+                <div class="tech-item">Arcweave</div>
+                <div class="tech-item">Demiplane</div>
+                <div class="tech-item">Roll20</div>
+                <div class="tech-item">Unity</div>
+                <div class="tech-item">Unreal Engine 5</div>
+            </div>
+
+            <div class="features-grid" style="margin-top: 2rem;">
+                <div class="feature">
+                    <div class="feature-title">Branching Narratives</div>
+                    <div>Arcweave for mapping complex quest lines and interactive storytelling</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">Tabletop RPG Platform</div>
+                    <div>Official "Grand Resonance" TTRPG on Demiplane/Roll20</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">Video Game Foundation</div>
+                    <div>Laying groundwork for full-scale immersive gaming experience</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">AI Integration</div>
+                    <div>Dynamic NPC interactions and procedural content generation</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Phase 2: Terrestrial Manifestation -->
         <section class="phase-card">
             <h2 class="phase-title">
                 <span class="phase-number">2</span>
@@ -344,19 +478,38 @@
                     <div style="color: #d1d5db; margin-top: 0.5rem">Visionary development partners</div>
                 </div>
             </div>
+        </section>
 
-            <div class="features-grid" style="margin-top: 2rem;">
-                <div class="feature">
-                    <div class="feature-title">Franchise Model</div>
-                    <div>Scalable global expansion through strategic partnerships</div>
+        <!-- NEW: Council Structures -->
+        <section class="phase-card">
+            <h2 class="phase-title">
+                <span class="phase-number">⚖️</span>
+                The Inaugural Council: Guardians of the Vision
+            </h2>
+            <p class="phase-description">
+                Assembling the Architects of Reality. Guiding this project is a council of global luminaries, not just of science and business, but of imagination itself.
+            </p>
+            
+            <div class="council-grid">
+                <div class="council-role">
+                    <div class="role-title">The Visionary Architect</div>
+                    <div class="role-description">Master planner of the multiversal blueprint and narrative foundation</div>
                 </div>
-                <div class="feature">
-                    <div class="feature-title">Prototype Function</div>
-                    <div>Each resort serves as R&D for space habitat design</div>
+                <div class="council-role">
+                    <div class="role-title">The Cosmic Ethicist</div>
+                    <div class="role-description">Renowned physicist/philosopher guiding ethical expansion into new realities</div>
                 </div>
-                <div class="feature">
-                    <div class="feature-title">Revenue Streams</div>
-                    <div>Hospitality, experiences, brand licensing, and R&D data</div>
+                <div class="council-role">
+                    <div class="role-title">The Narrative Guardian</div>
+                    <div class="role-description">Legendary storyteller ensuring narrative integrity across all manifestations</div>
+                </div>
+                <div class="council-role">
+                    <div class="role-title">The Galactic Engineer</div>
+                    <div class="role-description">Former lead from SpaceX/NASA translating vision into buildable reality</div>
+                </div>
+                <div class="council-role">
+                    <div class="role-title">The Ecosystem Economist</div>
+                    <div class="role-description">Visionary in sustainable economic models for multiversal civilization</div>
                 </div>
             </div>
         </section>
@@ -364,24 +517,91 @@
         <!-- Canon Council -->
         <section class="phase-card">
             <h2 class="phase-title">
-                <span class="phase-number">☆</span>
-                The Canon Council
+                <span class="phase-number">📚</span>
+                The Canon Council: The Ultimate Twist
             </h2>
             <p class="phase-description">
-                Where Imagination Becomes Blueprint. The ultimate guides for our journey are the visionary authors who have already charted the multiverse.
+                Where Imagination Becomes Blueprint. The ultimate guides for our journey are the visionary authors who have already charted the multiverse in their minds.
             </p>
-            <div class="features-grid">
+            
+            <div class="experience-highlight">
+                <div class="highlight-title">They have already seen the future. It is time to hand them the tools to build it.</div>
+                <div style="text-align: center; color: #d1d5db; margin-top: 1rem;">
+                    Featuring legendary authors like N.K. Jemisin, Andy Weir, Neal Stephenson, and other cartographers of human imagination
+                </div>
+            </div>
+
+            <div class="features-grid" style="margin-top: 2rem;">
                 <div class="feature">
-                    <div class="feature-title">Visionary Authors</div>
-                    <div>Legendary sci-fi/fantasy writers as reality architects</div>
+                    <div class="feature-title">Reality Cartographers</div>
+                    <div>Authors who have already mapped possible futures in their works</div>
                 </div>
                 <div class="feature">
                     <div class="feature-title">Moral Compass</div>
-                    <div>Guiding ethical development of new civilizations</div>
+                    <div>Guiding ethical development of new civilizations and societies</div>
                 </div>
                 <div class="feature">
-                    <div class="feature-title">Narrative Integrity</div>
-                    <div>Ensuring story becomes sustainable reality</div>
+                    <div class="feature-title">Blueprint Validation</div>
+                    <div>Ensuring our architectural plans align with visionary fiction</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- NEW: DeepSeek AI Integration Demo -->
+        <section class="phase-card">
+            <h2 class="phase-title">
+                <span class="phase-number">🤖</span>
+                AI-Powered Reality Engine
+            </h2>
+            <p class="phase-description">
+                Integrating DeepSeek AI to accelerate development, enhance creativity, and build the intelligent foundations of our multiversal civilization.
+            </p>
+
+            <div class="ai-demo">
+                <div class="ai-title">DeepSeek Code Completion Demo</div>
+                <p style="text-align: center; color: #d1d5db; margin-bottom: 1rem;">
+                    Experience how AI accelerates our reality creation engine
+                </p>
+                
+                <textarea class="demo-input" placeholder="Enter code or concept here... (Demo ready for Phase 3 integration)"># Example: Generate a celestial habitat design algorithm
+def design_habitat(environment, capacity, gravity_requirements):
+    # DeepSeek AI will help generate optimized habitat designs
+    pass</textarea>
+                
+                <div style="text-align: center;">
+                    <button class="demo-button" onclick="showAIDemo()">Generate with DeepSeek AI</button>
+                </div>
+                
+                <div id="ai-output" style="display: none; margin-top: 1rem; padding: 1rem; background: rgba(255,255,255,0.1); border-radius: 8px; font-family: monospace;">
+                    <div style="color: #10b981;">// AI-Generated Habitat Design:</div>
+                    <div style="color: #d1d5db; margin-top: 0.5rem;">
+                        def design_habitat(environment, capacity, gravity_requirements):<br>
+                        &nbsp;&nbsp;# Advanced structural analysis...<br>
+                        &nbsp;&nbsp;# Life support systems integration...<br>
+                        &nbsp;&nbsp;# Sustainable resource management...<br>
+                        &nbsp;&nbsp;return optimized_blueprint<br><br>
+                        <em>// DeepSeek AI can generate complex algorithms for celestial architecture,<br>
+                        // ecosystem design, and multiversal economic models.</em>
+                    </div>
+                </div>
+            </div>
+
+            <div class="features-grid" style="margin-top: 2rem;">
+                <div class="feature">
+                    <div class="feature-title">Code Generation</div>
+                    <div>Accelerating development of our digital infrastructure</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">Concept Exploration</div>
+                    <div>AI-assisted design of celestial habitats and systems</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">Narrative Enhancement</div>
+                    <div>Dynamic story generation and world-building assistance</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">Technical Documentation</div>
+                    <div>Automated documentation for our growing codebase</div>
                 </div>
             </div>
         </section>
@@ -391,11 +611,43 @@
         <h2 style="margin-bottom: 2rem; color: #f59e0b;">Ready to Build the Future?</h2>
         <a href="#" class="cta-button">Join the Resonance</a>
         <p style="margin-top: 1rem; color: #d1d5db;">Be part of the architecture of tomorrow</p>
+        
+        <div style="margin-top: 2rem; color: #9ca3af; font-size: 0.9rem;">
+            <strong>Next Evolution:</strong> Phase 3 - The Replicable Method & Reality Creation Engine
+        </div>
     </section>
 
     <footer>
         <p>&copy; 2024 The Grand Resonance. A Blueprint for a New Human Epoch.</p>
         <p style="margin-top: 0.5rem; font-size: 0.9rem;">This is not our project to finish. It is our legacy to begin.</p>
     </footer>
+
+    <script>
+        function showAIDemo() {
+            const output = document.getElementById('ai-output');
+            output.style.display = 'block';
+            
+            // Simulate AI processing
+            setTimeout(() => {
+                output.innerHTML = `
+                    <div style="color: #10b981;">// AI-Generated Habitat Design (Enhanced):</div>
+                    <div style="color: #d1d5db; margin-top: 0.5rem;">
+                        def design_habitat(environment, capacity, gravity_requirements):<br>
+                        &nbsp;&nbsp;"""Design optimal habitat for given parameters"""<br>
+                        &nbsp;&nbsp;structural_integrity = calculate_stress_points(environment)<br>
+                        &nbsp;&nbsp;life_support = optimize_resource_flow(capacity)<br>
+                        &nbsp;&nbsp;gravity_system = implement_artificial_gravity(gravity_requirements)<br>
+                        &nbsp;&nbsp;return {<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;'blueprint': generate_3d_model(structural_integrity),<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;'systems': integrate_systems(life_support, gravity_system),<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;'sustainability_score': calculate_efficiency()<br>
+                        &nbsp;&nbsp;}<br><br>
+                        <em>// Ready for Phase 3: Full DeepSeek API integration<br>
+                        // This demonstrates our AI-accelerated development pipeline</em>
+                    </div>
+                `;
+            }, 1000);
+        }
+    </script>
 </body>
 </html>
