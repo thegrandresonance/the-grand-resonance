@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Grand Resonance: From LitRPG to Multiversal Civilization</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0c0c0c 0%, #1a1a2e 50%, #16213e 100%);
+            color: #ffffff;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        
+        .cosmic-header {
+            background: rgba(0, 0, 0, 0.8);
+            padding: 4rem 2rem;
+            text-align: center;
+            border-bottom: 2px solid #6366f1;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .cosmic-header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: radial-gradient(circle at center, rgba(99, 102, 241, 0.1) 0%, transparent 70%);
+            z-index: 1;
+        }
+        
+        .header-content {
+            position: relative;
+            z-index: 2;
+        }
+        
+        h1 {
+            font-size: 3.5rem;
+            background: linear-gradient(45deg, #6366f1, #ec4899, #f59e0b);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 1rem;
+            font-weight: 800;
+        }
+        
+        .subtitle {
+            font-size: 1.5rem;
+            color: #d1d5db;
+            margin-bottom: 2rem;
+            font-weight: 300;
+        }
+        
+        .slogan {
+            font-size: 1.2rem;
+            color: #f59e0b;
+            font-style: italic;
+            border-top: 1px solid #374151;
+            padding-top: 1rem;
+            display: inline-block;
+        }
+        
+        .main-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 3rem 2rem;
+        }
+        
+        .phase-card {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid #374151;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            backdrop-filter: blur(10px);
+            transition: transform 0.3s ease, border-color 0.3s ease;
+        }
+        
+        .phase-card:hover {
+            transform: translateY(-5px);
+            border-color: #6366f1;
+        }
+        
+        .phase-title {
+            color: #6366f1;
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .phase-number {
+            background: #6366f1;
+            color: white;
+            width: 2rem;
+            height: 2rem;
+            border-radius: 50%;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.9rem;
+            font-weight: bold;
+        }
+        
+        .phase-description {
+            color: #d1d5db;
+            margin-bottom: 1.5rem;
+        }
+        
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        
+        .feature {
+            background: rgba(99, 102, 241, 0.1);
+            padding: 1rem;
+            border-radius: 8px;
+            border-left: 4px solid #6366f1;
+        }
+        
+        .feature-title {
+            color: #f59e0b;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+        
+        .cta-section {
+            text-align: center;
+            padding: 4rem 2rem;
+            background: rgba(0, 0, 0, 0.6);
+            border-top: 1px solid #374151;
+            border-bottom: 1px solid #374151;
+        }
+        
+        .cta-button {
+            background: linear-gradient(45deg, #6366f1, #8b5cf6);
+            color: white;
+            padding: 1rem 2rem;
+            border: none;
+            border-radius: 8px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+        }
+        
+        .cta-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(99, 102, 241, 0.4);
+        }
+        
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: #9ca3af;
+            border-top: 1px solid #374151;
+        }
+        
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.5rem;
+            }
+            
+            .subtitle {
+                font-size: 1.2rem;
+            }
+            
+            .features-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="cosmic-header">
+        <div class="header-content">
+            <h1>The Grand Resonance</h1>
+            <div class="subtitle">From LitRPG to a Multiversal Civilization</div>
+            <div class="slogan">"We Don't Predict the Future. We Build It."</div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <section class="phase-card">
+            <h2 class="phase-title">
+                <span class="phase-number">1</span>
+                The Vision: A Tapestry of Reality
+            </h2>
+            <p class="phase-description">
+                Where Story Becomes the Fabric of Existence. We are architecting a future where a story is not just read—it is lived.
+            </p>
+            <div class="features-grid">
+                <div class="feature">
+                    <div class="feature-title">The LitRPG Saga</div>
+                    <div>Five-volume epic as our source code</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">Earthly Resorts</div>
+                    <div>Luxury portals into The Grand Resonance</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">Media Empire</div>
+                    <div>Interactive experiences and games</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">Celestial Future</div>
+                    <div>First multiversal hospitality brand</div>
+                </div>
+            </div>
+        </section>
+
+        <section class="phase-card">
+            <h2 class="phase-title">
+                <span class="phase-number">2</span>
+                Phase 1: The Genesis - LitRPG Universe
+            </h2>
+            <p class="phase-description">
+                Our foundation is the five-volume LitRPG series, "The Grand Resonance Pentalogy" - our reality's source code.
+            </p>
+            <div class="features-grid">
+                <div class="feature">
+                    <div class="feature-title">Writing</div>
+                    <div>Scrivener & LivingWriter for complex narratives</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">World-Building</div>
+                    <div>LegendKeeper as our living "World Bible"</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">Publishing</div>
+                    <div>Amazon KDP & DriveThruRPG launch</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">Community</div>
+                    <div>Building our founding legion on Discord</div>
+                </div>
+            </div>
+        </section>
+
+        <section class="phase-card">
+            <h2 class="phase-title">
+                <span class="phase-number">3</span>
+                The Canon Council
+            </h2>
+            <p class="phase-description">
+                Where Imagination Becomes Blueprint. The ultimate guides for our journey are the visionary authors who have already charted the multiverse.
+            </p>
+        </section>
+    </main>
+
+    <section class="cta-section">
+        <h2 style="margin-bottom: 2rem; color: #f59e0b;">Ready to Build the Future?</h2>
+        <a href="#" class="cta-button">Join the Resonance</a>
+        <p style="margin-top: 1rem; color: #d1d5db;">Be part of the architecture of tomorrow</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 The Grand Resonance. A Blueprint for a New Human Epoch.</p>
+        <p style="margin-top: 0.5rem; font-size: 0.9rem;">This is not our project to finish. It is our legacy to begin.</p>
+    </footer>
+</body>
+</html>
