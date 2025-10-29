@@ -138,6 +138,48 @@
             margin-bottom: 0.5rem;
         }
         
+        .partner-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+        
+        .partner-card {
+            background: rgba(255, 255, 255, 0.08);
+            padding: 1.5rem;
+            border-radius: 8px;
+            text-align: center;
+            border: 1px solid #374151;
+            transition: all 0.3s ease;
+        }
+        
+        .partner-card:hover {
+            border-color: #f59e0b;
+            transform: scale(1.05);
+        }
+        
+        .partner-name {
+            color: #f59e0b;
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+        
+        .experience-highlight {
+            background: linear-gradient(45deg, rgba(99, 102, 241, 0.2), rgba(236, 72, 153, 0.2));
+            border: 1px solid #6366f1;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+        }
+        
+        .highlight-title {
+            color: #ec4899;
+            font-size: 1.3rem;
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+        
         .cta-section {
             text-align: center;
             padding: 4rem 2rem;
@@ -184,6 +226,10 @@
             .features-grid {
                 grid-template-columns: 1fr;
             }
+            
+            .partner-grid {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 </head>
@@ -197,9 +243,10 @@
     </header>
 
     <main class="main-content">
+        <!-- Vision Card -->
         <section class="phase-card">
             <h2 class="phase-title">
-                <span class="phase-number">1</span>
+                <span class="phase-number">☆</span>
                 The Vision: A Tapestry of Reality
             </h2>
             <p class="phase-description">
@@ -225,9 +272,10 @@
             </div>
         </section>
 
+        <!-- Phase 1: Genesis -->
         <section class="phase-card">
             <h2 class="phase-title">
-                <span class="phase-number">2</span>
+                <span class="phase-number">1</span>
                 Phase 1: The Genesis - LitRPG Universe
             </h2>
             <p class="phase-description">
@@ -253,14 +301,89 @@
             </div>
         </section>
 
+        <!-- PHASE 2: TERRESTRIAL MANIFESTATION - NEW CONTENT -->
         <section class="phase-card">
             <h2 class="phase-title">
-                <span class="phase-number">3</span>
+                <span class="phase-number">2</span>
+                Phase 2: The Terrestrial Manifestation - Multiverse Hotels & Resorts
+            </h2>
+            <p class="phase-description">
+                Our Earth-based Multiverse Resorts are immersive portals into The Grand Resonance, serving as both luxury destinations and functional prototypes for our celestial future.
+            </p>
+            
+            <div class="experience-highlight">
+                <div class="highlight-title">🏨 The Immersive Experience</div>
+                <div class="features-grid">
+                    <div class="feature">
+                        <div class="feature-title">Starship Bridge Lobby</div>
+                        <div>Enter through a fully immersive starship command center with panoramic views of the cosmos</div>
+                    </div>
+                    <div class="feature">
+                        <div class="feature-title">Celestial Chamber Suites</div>
+                        <div>Luxury accommodations with holographic environments and adjustable gravity simulation</div>
+                    </div>
+                    <div class="feature">
+                        <div class="feature-title">Zero-Gravity Lattice Training</div>
+                        <div>Cutting-edge fitness experience simulating orbital movement and spatial awareness</div>
+                    </div>
+                </div>
+            </div>
+
+            <h3 style="color: #f59e0b; margin: 2rem 0 1rem 0;">Strategic Hospitality Partners</h3>
+            <div class="partner-grid">
+                <div class="partner-card">
+                    <div class="partner-name">Jumeirah International</div>
+                    <div style="color: #d1d5db; margin-top: 0.5rem;">Luxury hospitality excellence</div>
+                </div>
+                <div class="partner-card">
+                    <div class="partner-name">The Address</div>
+                    <div style="color: #d1d5db; margin-top: 0.5rem;">Premium urban destinations</div>
+                </div>
+                <div class="partner-card">
+                    <div class="partner-name">Emaar Hospitality</div>
+                    <div style="color: #d1d5db; margin-top: 0.5rem">Visionary development partners</div>
+                </div>
+            </div>
+
+            <div class="features-grid" style="margin-top: 2rem;">
+                <div class="feature">
+                    <div class="feature-title">Franchise Model</div>
+                    <div>Scalable global expansion through strategic partnerships</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">Prototype Function</div>
+                    <div>Each resort serves as R&D for space habitat design</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">Revenue Streams</div>
+                    <div>Hospitality, experiences, brand licensing, and R&D data</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Canon Council -->
+        <section class="phase-card">
+            <h2 class="phase-title">
+                <span class="phase-number">☆</span>
                 The Canon Council
             </h2>
             <p class="phase-description">
                 Where Imagination Becomes Blueprint. The ultimate guides for our journey are the visionary authors who have already charted the multiverse.
             </p>
+            <div class="features-grid">
+                <div class="feature">
+                    <div class="feature-title">Visionary Authors</div>
+                    <div>Legendary sci-fi/fantasy writers as reality architects</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">Moral Compass</div>
+                    <div>Guiding ethical development of new civilizations</div>
+                </div>
+                <div class="feature">
+                    <div class="feature-title">Narrative Integrity</div>
+                    <div>Ensuring story becomes sustainable reality</div>
+                </div>
+            </div>
         </section>
     </main>
 
