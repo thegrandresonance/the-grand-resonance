@@ -1,38 +1,58 @@
 # Nexus Technical Specification v1.0
 
-## Overview
-Nexus is a unified dashboard for managing multiple online businesses through a single interface.
+## Project Overview
+Nexus is a unified dashboard that helps business owners manage all their online stores and services from one place.
 
-## Core Components
+## What Problem We Solve
+Business owners waste time switching between different apps like Shopify, WordPress, and Google Analytics. Nexus brings everything together in one dashboard.
 
-### 1. Data Connector Layer
-- API Integration: Connectors for major platforms
-- Webhook Support: Real-time data synchronization  
-- Authentication: Secure API access
+## Main Features
 
-### 2. Dashboard Interface
-- Unified Overview: Cross-platform metrics
-- Custom Widgets: Modular components
-- Real-time Updates: Live data
+### For Business Owners
+- See all business numbers in one place
+- Get alerts when something needs attention
+- Connect all your stores and services easily
 
-### 3. AI Analysis Engine
-- Trend Detection: Pattern recognition
-- Anomaly Alerts: Notification system
-- Predictive Insights: Growth forecasting
+### For Developers
+- Clean, modern code that's easy to work with
+- Well-documented APIs
+- Modular design - use only what you need
 
-## Supported Platforms (Phase 1)
-- Shopify
-- WordPress
-- Google Analytics
+## Technical Plan
 
-## Technical Requirements
-- Frontend: Modern web framework
-- Backend: API server
-- Database: For storing metrics
-- Security: Basic access control
+### Phase 1 - Basic Dashboard
+1. Create main dashboard layout
+2. Connect to Shopify API
+3. Show basic sales numbers
+4. Simple user login system
 
-## Next Phase Priorities
-1. Complete core dashboard UI
-2. Implement Shopify connector
-3. Develop basic alert system
-4. Create user authentication
+### Phase 2 - Smart Features  
+1. Add alert system for problems
+2. Connect more platforms (WordPress, Stripe)
+3. Basic trend analysis
+
+### Phase 3 - Advanced AI
+1. Predictive analytics
+2. Automated recommendations
+3. Custom reporting
+
+## Files We'll Create
+- `dashboard.html` - Main user interface
+- `api-connector.js` - Handles connections to other services
+- `database.js` - Stores user data and settings
+- `styles.css` - Makes everything look good
+
+## Simple Explanation for Non-Technical People
+Think of Nexus as a "mission control center" for your online businesses. Instead of checking 10 different apps, you see everything in one screen.
+
+## For Technical People
+We'll use modern web technologies and focus on security and performance from day one.
+
+## Next Steps
+1. Build the basic dashboard layout
+2. Test with one platform (Shopify)
+3. Get feedback from early users
+4. Improve based on what people need
+
+---
+*Last Updated: 2025-11-06*
