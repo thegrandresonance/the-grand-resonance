@@ -1,6 +1,8 @@
-MIT License
+# Dual License Agreement
 
-Copyright (c) 2025 thegrandresonance
+## Part 1: Open Source License (MIT)
+
+Copyright (c) 2025 The Grand Resonance
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +21,32 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Part 2: Commercial License
+
+For commercial use, distribution, or implementation requiring:
+
+- Professional services
+- Enterprise integration
+- Custom development
+- Dedicated support
+- Proprietary modifications
+
+A separate commercial license must be obtained from The Grand Resonance.
+
+**Commercial License Terms:**
+1. All commercial implementations require written permission
+2. Enterprise use beyond 10 users requires commercial licensing
+3. Integration into proprietary systems requires commercial licensing
+4. Reselling or SaaS offerings based on this software requires commercial licensing
+
+**Contact for Commercial Licensing:**
+consulting@thegrandresonance.com
+
+## Summary
+
+- Personal/Non-commercial use: MIT License applies
+- Commercial/Enterprise use: Commercial License required
+- Consulting/services based on this software: Commercial License required
+
+This dual license ensures open collaboration while protecting commercial interests.
