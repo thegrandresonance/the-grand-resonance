@@ -1,100 +1,147 @@
----
-title: "Heavenization World Peace Initiative"
-layout: single
-permalink: /
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Heavenization World Peace Initiative</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f4f4f4; color: #222; }
+    header { background: linear-gradient(135deg, #3b5998, #1b2a49); color: #fff; padding: 60px 30px; text-align: center; }
+    header h1 { font-size: 48px; margin-bottom: 10px; }
+    header p { font-size: 20px; opacity: 0.9; }
+    section { padding: 50px 30px; max-width: 1100px; margin: auto; background: #fff; margin-bottom: 30px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+    h2 { font-size: 32px; margin-top: 0; color: #222; }
+    h3 { font-size: 24px; margin-top: 20px; color: #333; }
+    p { font-size: 18px; line-height: 1.65; }
+    ul { font-size: 18px; }
+    .center { text-align: center; }
+    img { width: 100%; border-radius: 10px; margin: 20px 0; }
+    footer { text-align: center; padding: 30px; background: #ddd; font-size: 16px; }
+    .two-col { display: flex; gap: 20px; flex-wrap: wrap; }
+    .two-col div { flex: 1; min-width: 280px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Heavenization World Peace Initiative</h1>
+    <p>Transforming global conflict through visionary, abundance‑based solutions</p>
+  </header>
 
-# HEAVENIZATION WORLD PEACE INITIATIVE
+  <section>
+    <div class="center">
+      <img src="https://images.unsplash.com/photo-1552084117-56a4e71593c6?auto=format&fit=crop&w=1400&q=80" alt="Peace Dove" />
+    </div>
+    <h2>Our Vision</h2>
+    <p>Heavenization proposes that peace emerges not from bargaining over scarcity but from creating new shared abundance. This initiative establishes a global framework in which nations voluntarily contribute land, resources, and development pathways to resolve the most persistent conflicts on Earth.</p>
+    <p>The goal isn't merely the absence of war; it's the construction of a new geopolitical architecture in which prosperity and security expand for all participants.</p>
 
-## A Comprehensive Framework for Global Conflict Resolution
+    <h3>Core Principles</h3>
+    <ul>
+      <li><strong>Radical Generosity</strong> – voluntary territorial contributions for global stability</li>
+      <li><strong>Integrated Economic Development</strong> – infrastructure, industry, and social programs built simultaneously with peace agreements</li>
+      <li><strong>Cultural & Spiritual Preservation</strong> – respect for heritage as an anchor for future-building</li>
+      <li><strong>Phased, Scalable Implementation</strong> – resolving conflicts through replicable frameworks</li>
+    </ul>
+  </section>
 
-![Global Peace](https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80)
+  <section>
+    <h2>Phase 1: Middle East Conflict Resolution</h2>
+    <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?auto=format&fit=crop&w=1400&q=80" alt="Middle East Map" />
 
-## OUR VISION
+    <h3>The Syrian Land Grant Initiative</h3>
+    <p>In an unprecedented act of planetary leadership, Syria grants 60,000 km² of territory to help end the century‑long Israeli‑Palestinian conflict. This new geographical canvas allows all stakeholders to achieve security, sovereignty, and dignity.</p>
 
-Heavenization transforms global conflicts through visionary territorial solutions and integrated economic development.
+    <div class="two-col">
+      <div>
+        <h3>New Palestinian State</h3>
+        <p>30,000 km² of fully sovereign, internationally recognized territory equipped with modern infrastructure plans, coastal access, and UN membership pathways.</p>
+      </div>
+      <div>
+        <h3>Territorial Expansion for Israel</h3>
+        <p>30,000 km² designated for strategic depth, agricultural development, energy corridors, and long-term demographic stability.</p>
+      </div>
+    </div>
 
-### Core Principles:
-- **Radical Generosity**: Nations contributing land for peace
-- **Integrated Development**: Territorial solutions with economic prosperity
-- **Cultural Preservation**: Protecting heritage while building new futures
+    <h3>Jerusalem Governance Model</h3>
+    <p>A shared capital under a new administrative framework with:</p>
+    <ul>
+      <li>Internationally supervised access to holy sites</li>
+      <li>Equal security guarantees</li>
+      <li>Joint municipal development zones</li>
+    </ul>
 
----
+    <h3>Infrastructure & Economic Features</h3>
+    <ul>
+      <li>New high-speed transit corridors</li>
+      <li>Renewable-energy grids linking all territories</li>
+      <li>Cross-border agricultural innovation parks</li>
+      <li>Long-term stability through development, not borders alone</li>
+    </ul>
+  </section>
 
-## PHASE 1: MIDDLE EAST CONFLICT RESOLUTION
+  <section>
+    <h2>Phase 2: Ukraine Conflict Resolution</h2>
+    <img src="https://images.unsplash.com/photo-1598366833298-600b9c5bfb43?auto=format&fit=crop&w=1400&q=80" alt="Ukraine Field" />
+    
+    <p>The Ukraine framework restores sovereignty while constructing a future integrated with European economic engines. The focus is not only the end of conflict but the beginning of a robust reconstruction era.</p>
 
-### Syria's Gift to Humanity: 60,000 km²
+    <h3>Framework Elements</h3>
+    <ul>
+      <li>Restoration of 1991 internationally recognized borders</li>
+      <li>Autonomous development zones for cultural minorities</li>
+      <li>Multinational peacekeeping presence</li>
+      <li>$500B+ reconstruction and modernization program</li>
+    </ul>
 
-![Peace Symbol](https://images.unsplash.com/photo-1551818255-e6e109cbc9cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80)
+    <h3>Economic Integration</h3>
+    <ul>
+      <li>Black Sea Economic Corridor with new ports and trade hubs</li>
+      <li>Fast‑tracked EU alignment</li>
+      <li>Energy grid reinforcement</li>
+      <li>High-tech and agricultural modernization</li>
+    </ul>
+  </section>
 
-**Historic Contribution**: Syria offers 60,000 km² for Israeli-Palestinian peace.
+  <section>
+    <h2>Implementation Timeline</h2>
+    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1400&q=80" alt="Timeline" />
 
-#### Territorial Distribution:
-- **New Palestinian State**: 30,000 km² sovereign territory
-- **Israeli Expansion**: 30,000 km² additional territory
-- **Jerusalem**: Shared capital with international oversight
+    <h3>Immediate Actions (Nov 2025–Feb 2026)</h3>
+    <ul>
+      <li>Diplomatic outreach to regional powers</li>
+      <li>Drafting of UN resolutions for adoption</li>
+      <li>Donor conference preparation</li>
+      <li>Global awareness campaign rollout</li>
+    </ul>
 
-#### Key Features:
-- Full sovereignty for Palestine
-- Security guarantees for Israel
-- International transit corridors
-- Protection of religious sites
+    <h3>Phase 1 Deployment (Mar–Aug 2026)</h3>
+    <ul>
+      <li>Ceasefire agreement execution</li>
+      <li>Land transfer logistics</li>
+      <li>Infrastructure blueprint development</li>
+      <li>Peacekeeping forces assembled</li>
+    </ul>
 
----
+    <h3>Mid‑2026 Milestones</h3>
+    <ul>
+      <li>Recognition of Palestinian statehood</li>
+      <li>Signed Israeli security guarantees</li>
+      <li>Jerusalem shared governance installation</li>
+      <li>First resettlement wave begins</li>
+    </ul>
+  </section>
 
-## PHASE 2: UKRAINE CONFLICT RESOLUTION
+  <section>
+    <h2>Sustainable Development Programs</h2>
+    <img src="https://images.unsplash.com/photo-1573995974701-1af577c7de1c?auto=format&fit=crop&w=1400&q=80" alt="Chicken Farming" />
 
-### Territorial Integrity with Development Zones
+    <h3>Poultry Prosperity Program</h3>
+    <p>This initiative provides low-cost micro-farming kits, training programs, and economic networks—especially empowering women in rural regions. The program improves nutrition, income stability, and local cooperation across political divides.</p>
+  </section>
 
-![Unity](https://images.unsplash.com/photo-1534447677768-be436bb09401?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80)
-
-#### Framework:
-- **Restoration of 1991 Borders**: Ukrainian sovereignty
-- **Autonomous Development Regions**: Economic zones
-- **International Reconstruction**: $500+ billion investment
-- **Security Guarantees**: Multinational peacekeeping
-
----
-
-## IMPLEMENTATION TIMELINE
-
-### Starting Today: November 29, 2025
-
-![Progress](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
-
-#### 2025-2026 Action Plan:
-- Diplomatic outreach and UN resolutions
-- Middle East ceasefire implementation
-- Syrian land transfer protocols
-- Palestinian statehood recognition
-- Ukrainian sovereignty restoration
-
----
-
-## INTEGRATED DEVELOPMENT
-
-### Practical Humanitarian Components
-
-![Community](https://images.unsplash.com/photo-1573995974701-1af577c7de1c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80)
-
-#### Small-Scale Initiatives:
-- Poultry farming for food security
-- Women's economic empowerment
-- Cross-community cooperation
-- Sustainable protein sources
-
-*Note: These are small practical demonstrations within the larger peace framework.*
-
----
-
-## JOIN THE MOVEMENT
-
-We invite nations and individuals to participate in this historic peace initiative.
-
-**Contact**: peace@thegrandresonance.org
-
----
-
-*"Transforming conflict into cooperation through visionary solutions."*
-
-**Heavenization World Peace Initiative**
+  <footer>
+    <p>Contact: peace@thegrandresonance.org</p>
+    <p>© 2025 Heavenization World Peace Initiative</p>
+  </footer>
+</body>
+</html>
