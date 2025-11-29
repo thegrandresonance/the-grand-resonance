@@ -8,6 +8,8 @@ permalink: /
 
 ## A Comprehensive Framework for Global Conflict Resolution
 
+![Peace](https://images.unsplash.com/photo-1531058020387-3be344556be6?w=800){: .align-center}
+
 ## OUR VISION
 
 Heavenization represents a paradigm shift in conflict resolution - moving from zero-sum negotiations to abundance-based solutions that create winners on all sides. Through generous territorial contributions and integrated economic development, we transform intractable conflicts into opportunities for shared prosperity.
@@ -23,6 +25,8 @@ Heavenization represents a paradigm shift in conflict resolution - moving from z
 ## PHASE 1: MIDDLE EAST CONFLICT RESOLUTION
 
 ### The Syrian Land Grant Initiative
+
+![Middle East](https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=600){: .align-right width="400"}
 
 **Historic Contribution**: Syria offers 60,000 km² of territory as a permanent solution to the Israeli-Palestinian conflict.
 
@@ -44,6 +48,8 @@ Heavenization represents a paradigm shift in conflict resolution - moving from z
 
 ### Territorial Integrity with Enhanced Autonomy
 
+![Ukraine](https://images.unsplash.com/photo-1598366833298-600b9c5bfb43?w=500){: .align-left width="350"}
+
 #### Framework Overview:
 - **Restoration of 1991 Borders**: Full Ukrainian sovereignty reaffirmed
 - **Autonomous Development Regions**: Special economic zones with cultural protection
@@ -62,6 +68,8 @@ Heavenization represents a paradigm shift in conflict resolution - moving from z
 ## UPDATED IMPLEMENTATION TIMELINE
 
 ### Starting Today: November 29, 2025
+
+![Timeline](https://images.unsplash.com/photo-1543286386-713bdd548da4?w=600){: .align-center}
 
 #### Immediate Action (November 2025 - February 2026)
 - Diplomatic outreach to key nations
@@ -93,6 +101,8 @@ Heavenization represents a paradigm shift in conflict resolution - moving from z
 
 ### Comprehensive Global Conflict Resolution Roadmap
 
+![Global](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500){: .align-right width="300"}
+
 #### Phase 3: South Asian Conflicts (2027)
 - Kashmir resolution through autonomous development regions
 - India-Pakistan economic corridor development
@@ -110,25 +120,11 @@ Heavenization represents a paradigm shift in conflict resolution - moving from z
 
 ---
 
-## IMPLEMENTATION MECHANISMS
-
-### Diplomatic Framework
-- United Nations Heavenization Resolution
-- International donor conferences
-- Multilateral treaty organizations
-- Conflict resolution monitoring bodies
-
-### Economic Development Components
-- Heavenization Development Bank
-- International investment funds
-- Public-private partnership models
-- Sustainable development criteria
-
----
-
 ## SUSTAINABLE DEVELOPMENT COMPONENT
 
 ### Integrated Humanitarian Initiatives
+
+![Chicken Farm](https://images.unsplash.com/photo-1573995974701-1af577c7de1c?w=400){: .align-left width="250"}
 
 As part of our comprehensive approach, Heavenization includes practical humanitarian programs that demonstrate our commitment to immediate human welfare alongside long-term political solutions.
 
