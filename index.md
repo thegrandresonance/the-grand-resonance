@@ -29,7 +29,7 @@
 
   <section>
     <div class="center">
-      <img src="https://images.unsplash.com/photo-1552084117-56a4e71593c6?auto=format&fit=crop&w=1400&q=80" alt="Peace Dove" />
+      <img src="https://images.unsplash.com/photo-1505483531331-407c43a0e5f5?auto=format&fit=crop&w=1400&q=80" alt="Peace Dove" />
     </div>
     <h2>Our Vision</h2>
     <p>Heavenization proposes that peace emerges not from bargaining over scarcity but from creating new shared abundance. This initiative establishes a global framework in which nations voluntarily contribute land, resources, and development pathways to resolve the most persistent conflicts on Earth.</p>
@@ -46,7 +46,7 @@
 
   <section>
     <h2>Phase 1: Middle East Conflict Resolution</h2>
-    <img src="https://images.unsplash.com/photo-1589330273594-fade1ee91647?auto=format&fit=crop&w=1400&q=80" alt="Middle East Map" />
+    <img src="https://images.unsplash.com/photo-1526318472351-bc6fa8d42c1a?auto=format&fit=crop&w=1400&q=80" alt="Middle East Map" />
 
     <h3>The Syrian Land Grant Initiative</h3>
     <p>In an unprecedented act of planetary leadership, Syria grants 60,000 km² of territory to help end the century‑long Israeli‑Palestinian conflict. This new geographical canvas allows all stakeholders to achieve security, sovereignty, and dignity.</p>
@@ -81,7 +81,7 @@
 
   <section>
     <h2>Phase 2: Ukraine Conflict Resolution</h2>
-    <img src="https://images.unsplash.com/photo-1598366833298-600b9c5bfb43?auto=format&fit=crop&w=1400&q=80" alt="Ukraine Field" />
+    <img src="https://images.unsplash.com/photo-1581093458791-9f3c0c7f8d8c?auto=format&fit=crop&w=1400&q=80" alt="Ukraine Field" />
     
     <p>The Ukraine framework restores sovereignty while constructing a future integrated with European economic engines. The focus is not only the end of conflict but the beginning of a robust reconstruction era.</p>
 
@@ -104,7 +104,7 @@
 
   <section>
     <h2>Implementation Timeline</h2>
-    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1400&q=80" alt="Timeline" />
+    <img src="https://images.unsplash.com/photo-1581090464777-0cf1702b27f5?auto=format&fit=crop&w=1400&q=80" alt="Timeline" />
 
     <h3>Immediate Actions (Nov 2025–Feb 2026)</h3>
     <ul>
@@ -133,14 +133,14 @@
 
   <section>
     <h2>Sustainable Development Programs</h2>
-    <img src="https://images.unsplash.com/photo-1573995974701-1af577c7de1c?auto=format&fit=crop&w=1400&q=80" alt="Chicken Farming" />
+    <img src="https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=1400&q=80" alt="Chicken Farming" />
 
     <h3>Poultry Prosperity Program</h3>
     <p>This initiative provides low-cost micro-farming kits, training programs, and economic networks—especially empowering women in rural regions. The program improves nutrition, income stability, and local cooperation across political divides.</p>
   </section>
 
   <footer>
-    <p>Contact: peace@thegrandresonance.org</p>
+    <p>Contact: +971 56 132 7704</p>
     <p>© 2025 Heavenization World Peace Initiative</p>
   </footer>
 </body>
