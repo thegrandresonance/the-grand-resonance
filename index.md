@@ -8,7 +8,7 @@ permalink: /
 
 ## A Comprehensive Framework for Global Conflict Resolution
 
-![Peace](https://images.unsplash.com/photo-1531058020387-3be344556be6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80)
+![Global Peace](https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80)
 
 ## OUR VISION
 
@@ -25,7 +25,7 @@ Heavenization transforms global conflicts through visionary territorial solution
 
 ### Syria's Gift to Humanity: 60,000 km²
 
-![Middle East](https://images.unsplash.com/photo-1589330273594-fade1ee91647?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80)
+![Peace Symbol](https://images.unsplash.com/photo-1551818255-e6e109cbc9cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80)
 
 **Historic Contribution**: Syria offers 60,000 km² for Israeli-Palestinian peace.
 
@@ -46,7 +46,7 @@ Heavenization transforms global conflicts through visionary territorial solution
 
 ### Territorial Integrity with Development Zones
 
-![Ukraine](https://images.unsplash.com/photo-1598366833298-600b9c5bfb43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80)
+![Unity](https://images.unsplash.com/photo-1534447677768-be436bb09401?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80)
 
 #### Framework:
 - **Restoration of 1991 Borders**: Ukrainian sovereignty
@@ -60,7 +60,7 @@ Heavenization transforms global conflicts through visionary territorial solution
 
 ### Starting Today: November 29, 2025
 
-![Timeline](https://images.unsplash.com/photo-1543286386-713bdd548da4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
+![Progress](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
 
 #### 2025-2026 Action Plan:
 - Diplomatic outreach and UN resolutions
@@ -75,7 +75,7 @@ Heavenization transforms global conflicts through visionary territorial solution
 
 ### Practical Humanitarian Components
 
-![Sustainable Development](https://images.unsplash.com/photo-1573995974701-1af577c7de1c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80)
+![Community](https://images.unsplash.com/photo-1573995974701-1af577c7de1c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80)
 
 #### Small-Scale Initiatives:
 - Poultry farming for food security
