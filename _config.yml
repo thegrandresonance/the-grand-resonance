@@ -1,25 +1,3 @@
-title: "World Peace & Prosperity Poultry Initiative"
-description: "Heavenization: Resolving conflicts through visionary land solutions and sustainable farming"
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
-locale: "en-US"
-baseurl: ""
-url: "https://thegrandresonance.org"
-
-# Build settings
-markdown: kramdown
-permalink: /:title/
-plugins:
-  - jekyll-include-cache
-  - jekyll-feed
-
-# Navigation
 header_pages:
   - index.md
-  - heavenization-1.md
-  - rural-model.md
-  - urban-ova.md
-  - heavenization-vision.md
-
-# Minimal Mistakes theme settings
-minimal_mistakes_skin: "default"
-search: true
+  # We'll add detailed phase pages later as needed
