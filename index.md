@@ -8,7 +8,7 @@ permalink: /
 
 ## A Comprehensive Framework for Global Conflict Resolution
 
-![Peace](https://images.unsplash.com/photo-1531058020387-3be344556be6?w=800){: .align-center}
+![Peace Initiative](https://images.unsplash.com/photo-1531058020387-3be344556be6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80)
 
 ## OUR VISION
 
@@ -26,7 +26,7 @@ Heavenization represents a paradigm shift in conflict resolution - moving from z
 
 ### The Syrian Land Grant Initiative
 
-![Middle East](https://images.unsplash.com/photo-1589330273594-fade1ee91647?w=600){: .align-right width="400"}
+![Middle East Peace](https://images.unsplash.com/photo-1589330273594-fade1ee91647?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80)
 
 **Historic Contribution**: Syria offers 60,000 km² of territory as a permanent solution to the Israeli-Palestinian conflict.
 
@@ -48,7 +48,7 @@ Heavenization represents a paradigm shift in conflict resolution - moving from z
 
 ### Territorial Integrity with Enhanced Autonomy
 
-![Ukraine](https://images.unsplash.com/photo-1598366833298-600b9c5bfb43?w=500){: .align-left width="350"}
+![Ukraine Peace](https://images.unsplash.com/photo-1598366833298-600b9c5bfb43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80)
 
 #### Framework Overview:
 - **Restoration of 1991 Borders**: Full Ukrainian sovereignty reaffirmed
@@ -69,7 +69,7 @@ Heavenization represents a paradigm shift in conflict resolution - moving from z
 
 ### Starting Today: November 29, 2025
 
-![Timeline](https://images.unsplash.com/photo-1543286386-713bdd548da4?w=600){: .align-center}
+![Implementation Timeline](https://images.unsplash.com/photo-1543286386-713bdd548da4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
 
 #### Immediate Action (November 2025 - February 2026)
 - Diplomatic outreach to key nations
@@ -101,7 +101,7 @@ Heavenization represents a paradigm shift in conflict resolution - moving from z
 
 ### Comprehensive Global Conflict Resolution Roadmap
 
-![Global](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500){: .align-right width="300"}
+![Global Vision](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80)
 
 #### Phase 3: South Asian Conflicts (2027)
 - Kashmir resolution through autonomous development regions
@@ -124,7 +124,7 @@ Heavenization represents a paradigm shift in conflict resolution - moving from z
 
 ### Integrated Humanitarian Initiatives
 
-![Chicken Farm](https://images.unsplash.com/photo-1573995974701-1af577c7de1c?w=400){: .align-left width="250"}
+![Sustainable Farming](https://images.unsplash.com/photo-1573995974701-1af577c7de1c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80)
 
 As part of our comprehensive approach, Heavenization includes practical humanitarian programs that demonstrate our commitment to immediate human welfare alongside long-term political solutions.
 
